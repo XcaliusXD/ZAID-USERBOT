@@ -3,13 +3,13 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(6435225) #optional
-API_HASH = "" #optional
+API_ID = "26555290"
+API_HASH = "47b748dbf86a9473e43d27e89f44b33b"
 
-SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(1234567890)
-MONGO_URL = "MONGO_URL"
-BOT_TOKEN = "BOT_TOKEN"
+SUDO_USERS = list(map(int, ("1866820955").split()))
+OWNER_ID = int(5968611324)
+MONGO_URL = "mongodb+srv://prajeenthegrate:prajeenthegrate@cluster0.kmkxk4j.mongodb.net/?retryWrites=true&w=majority"
+BOT_TOKEN = "6144536062:AAGm5iLVYCPsmPp-vB-X5ceqGPafeSvayR4"
 ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
@@ -18,7 +18,7 @@ GIT_TOKEN = None #personal access token
 REPO_URL = "https://github.com/ITZ-ZAID/ZAID-USERBOT"
 BRANCH = "master" #don't change
  
-STRING_SESSION1 = ""
+STRING_SESSION1 = "BQBQ2ZxjEUdteqwDSSxYy5JLd-K4TZEaSti5kuTRcnUMjJi7pZMEWTHScGF6nlzVSQLKKBZL7URDNQH96JFSAA5xqtus3RqdXgGrkF-YjcuN7J5sHfhywPyx1AUjC0JjqunVgOd0qYyDIVZau_Y4jSdMTWX6W6LRyDCl_9rLfjHJbfRGljH-zOv1flGwVtdn899Vs_NuKe1Dy7IkZrOHB7k1D_okPo0ZystTtqZgwmD5qMzS7LitEj0eaoHyGbTxc-bcAmZe7XXTnjXG1oBGK6BpToSInq1oz4RR7L4-Ov62xaaKfy-d4JyJzCY_hsvGmKH26ETj_quRfDJ6cvMRrzUxAAAAAXUBQWgA"
 STRING_SESSION2 = ""
 STRING_SESSION3 = ""
 STRING_SESSION4 = ""
